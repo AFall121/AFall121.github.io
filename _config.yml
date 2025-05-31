@@ -3,13 +3,10 @@ title: 夏月影,风悠扬...
 description: 随便写点什么
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# github_repo: jekyll # the GitHub repo name for your project
-# github_username: jekyll
+github_repo: AFall121.github.io # the GitHub repo name for your project
+github_username: AFall121
 
-# Optional social link, you can choose from the following options:
-# twitter (default), instagram, medium, or dribbble
-social_link: twitter
-social_username: jekyllrb
+
 
 # Set theme color here
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
