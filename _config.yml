@@ -1,9 +1,4 @@
-# theme: owner/name --> Don't forget to remove/comment the gem-based theme option
-remote_theme: "jeffreytse/jekyll-theme-yat"
-
-# Add the following to activate the plugin
-plugins:
-  - jekyll-remote-theme
+remote_theme: broccolini/swiss
 
 title: 夏月影,风悠扬...
 description: 随便写点什么
