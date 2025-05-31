@@ -3,7 +3,9 @@
 2. [notes](https://afall121.github.io/afall)
 
 
-## 总要留点儿什么
+## [GITHUB上的git教程](https://docs.github.com/zh/get-started/using-git/about-git)
+
+
 
 You can use the [editor on GitHub](https://github.com/AFall121/AFall121.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
