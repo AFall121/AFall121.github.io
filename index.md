@@ -5,7 +5,7 @@
 
 ## [GITHUB上的git教程](https://docs.github.com/zh/get-started/using-git/about-git)
 
-
+## [国内写的超好用的typescript教程,我不知道作者是谁](https://tutorial.typescript.net.cn/)
 
 You can use the [editor on GitHub](https://github.com/AFall121/AFall121.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
