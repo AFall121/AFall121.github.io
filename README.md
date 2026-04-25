@@ -1,7 +1,7 @@
 ## If I know what love is,because of you.
 
-1. [testpage](https://www.afall121.github.io/testpage)
-2. [notes](https://www.afall121.github.io/afall)
+1. [testpage](https://www.afall121.cn/testpage)
+2. [notes](https://www.afall121.cn/afall)
 
 ## [GITHUB上的git教程](https://docs.github.com/zh/get-started/using-git/about-git)
 
